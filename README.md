@@ -1,7 +1,7 @@
 ## Hi, I'm Gabriel 👋
 <div>
   <a href="https://github.com/gabriel-enrique7">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=gabriel-enrique7&show_icons=false&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=gabriel-enrique7&show_icons=false&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-enrique7&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
