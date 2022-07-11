@@ -12,9 +12,9 @@
   <img align="center" alt="Ícone HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ícone CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ícone Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ícone Node.js" height="30" width="40" src="https://img.icons8.com/color/40/000000/nodejs.png">
   <img align="center" alt="Ícone Vue.js" height="30" width="40" src="https://img.icons8.com/color/40/000000/vue-js.png">
   <img align="center" alt="Ícone Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
+  <img align="center" alt="Ícone Node.js" height="30" width="40" src="https://img.icons8.com/color/40/000000/nodejs.png">
   <img align="center" alt="Ícone SQL" height="30" width="40" src="https://img.icons8.com/color/40/000000/sql.png">
 </div>
 
